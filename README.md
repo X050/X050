@@ -5,7 +5,7 @@ Projects:
 
 ❀ [coreutils:](https://github.com/neetware/coreutils) POSIX compliant coreutils for UNIX-like Operating Systems. 
 
-❀ [winspire:](https://github.com/neetware/winspire) A script to boot straight into "Windows 93".
+❀ [windows93linux:](https://github.com/neetware/windows93linux) A script to boot straight into "Windows 93".
 
 ❀ [macfetch:](https://github.com/neetware/macfetch) Native Neofetch clone for macOS.
 
