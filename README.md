@@ -1,6 +1,8 @@
 Projects:
 ---
 
+❀ [yukonia:](https://github.com/neetware/yukonia) Minimalistic static video site generator.
+
 ❀ [spm:](https://github.com/neetware/spm) Script package manager for UNIX-like Operating Systems. 
 
 ❀ [coreutils:](https://github.com/neetware/coreutils) POSIX compliant coreutils for UNIX-like Operating Systems. 
