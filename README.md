@@ -1,1 +1,1 @@
-❀ [website:](https://xcomfy.github.io) My website and blog.
+❀ [my website:](https://xcomfy.github.io)
