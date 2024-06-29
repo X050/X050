@@ -1,4 +1,4 @@
-❀ [Website:](https://xcomfy.github.io) My website.
+❀ [website:](https://xcomfy.github.io) My website and blog.
 
 ❀ [yukonia:](https://github.com/xcomfy/yukonia) A minimalistic static video site generator.
 
