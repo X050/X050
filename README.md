@@ -1,1 +1,1 @@
-❀ [my website:](https://xcomfy.github.io)
+❀ [website](https://xcomfy.github.io)
